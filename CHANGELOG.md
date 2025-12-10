@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.2.10 (2025-12-10)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [5ed7dfd](https://github.com/c0rejs/app-text-search/commit/5ed7dfd), [808d16a](https://github.com/c0rejs/app-text-search/commit/808d16a), [7e689c1](https://github.com/c0rejs/app-text-search/commit/7e689c1), [3ac4cf5](https://github.com/c0rejs/app-text-search/commit/3ac4cf5); 👬 zdm)
+
+- chore(metadata): update package metadata (● [a1b186a](https://github.com/c0rejs/app-text-search/commit/a1b186a); 👬 zdm)
+
+Compare with the previous release: [v2.2.9](https://github.com/c0rejs/app-text-search/compare/v2.2.9...v2.2.10)
+
 ### v2.2.9 (2025-07-23)
 
 **Other changes:**
