@@ -5,4 +5,4 @@ docs:
   location: /docs
 
   externalTypes:
-    - softvisio-node/result
+    - c0rejs/result
