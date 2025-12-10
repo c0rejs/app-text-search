@@ -4,49 +4,49 @@
 
 **Other changes:**
 
-- style: update .npmrc (● [c64b523](https://github.com/softvisio-node/app-text-search/commit/c64b523); 👬 zdm)
+- style: update .npmrc (● [c64b523](https://github.com/c0rejs/app-text-search/commit/c64b523); 👬 zdm)
 
-Compare with the previous release: [v2.2.8](https://github.com/softvisio-node/app-text-search/compare/v2.2.8...v2.2.9)
+Compare with the previous release: [v2.2.8](https://github.com/c0rejs/app-text-search/compare/v2.2.8...v2.2.9)
 
 ### v2.2.8 (2025-07-23)
 
 **Bug fixes:**
 
-- \[PATCH] fix: update editorconfig (● [e4c6f60](https://github.com/softvisio-node/app-text-search/commit/e4c6f60); 👬 zdm)
+- \[PATCH] fix: update editorconfig (● [e4c6f60](https://github.com/c0rejs/app-text-search/commit/e4c6f60); 👬 zdm)
 
-Compare with the previous release: [v2.2.7](https://github.com/softvisio-node/app-text-search/compare/v2.2.7...v2.2.8)
+Compare with the previous release: [v2.2.7](https://github.com/c0rejs/app-text-search/compare/v2.2.7...v2.2.8)
 
 ### v2.2.7 (2025-07-22)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix editorconfig (● [217afe7](https://github.com/softvisio-node/app-text-search/commit/217afe7); 👬 zdm)
+- \[PATCH] fix: fix editorconfig (● [217afe7](https://github.com/c0rejs/app-text-search/commit/217afe7); 👬 zdm)
 
-Compare with the previous release: [v2.2.6](https://github.com/softvisio-node/app-text-search/compare/v2.2.6...v2.2.7)
+Compare with the previous release: [v2.2.6](https://github.com/c0rejs/app-text-search/compare/v2.2.6...v2.2.7)
 
 ### v2.2.6 (2025-07-16)
 
 **Other changes:**
 
-- docs: update (● [c32acca](https://github.com/softvisio-node/app-text-search/commit/c32acca); 👬 zdm)
+- docs: update (● [c32acca](https://github.com/c0rejs/app-text-search/commit/c32acca); 👬 zdm)
 
-Compare with the previous release: [v2.2.5](https://github.com/softvisio-node/app-text-search/compare/v2.2.5...v2.2.6)
+Compare with the previous release: [v2.2.5](https://github.com/c0rejs/app-text-search/compare/v2.2.5...v2.2.6)
 
 ### v2.2.5 (2025-07-02)
 
 **Other changes:**
 
-- style: rename sql bool to boolean (● [a8caea9](https://github.com/softvisio-node/app-text-search/commit/a8caea9); 👬 zdm)
+- style: rename sql bool to boolean (● [a8caea9](https://github.com/c0rejs/app-text-search/commit/a8caea9); 👬 zdm)
 
-Compare with the previous release: [v2.2.4](https://github.com/softvisio-node/app-text-search/compare/v2.2.4...v2.2.5)
+Compare with the previous release: [v2.2.4](https://github.com/c0rejs/app-text-search/compare/v2.2.4...v2.2.5)
 
 ### v2.2.4 (2025-06-16)
 
 **Other changes:**
 
-- chore(deps): update package dependencies (● [942caa0](https://github.com/softvisio-node/app-text-search/commit/942caa0); 👬 zdm)
+- chore(deps): update package dependencies (● [942caa0](https://github.com/c0rejs/app-text-search/commit/942caa0); 👬 zdm)
 
-Compare with the previous release: [v2.2.3](https://github.com/softvisio-node/app-text-search/compare/v2.2.3...v2.2.4)
+Compare with the previous release: [v2.2.3](https://github.com/c0rejs/app-text-search/compare/v2.2.3...v2.2.4)
 
 ### v2.2.3 (2025-06-07)
 
@@ -54,7 +54,7 @@ Compare with the previous release: [v2.2.3](https://github.com/softvisio-node/ap
 
 - \[PATCH] chore: update cli config (👬 zdm)
 
-Compare with the previous release: [v2.2.2](https://github.com/softvisio-node/app-text-search/compare/v2.2.2...v2.2.3)
+Compare with the previous release: [v2.2.2](https://github.com/c0rejs/app-text-search/compare/v2.2.2...v2.2.3)
 
 ### v2.2.2 (2025-06-01)
 
@@ -62,7 +62,7 @@ Compare with the previous release: [v2.2.2](https://github.com/softvisio-node/ap
 
 - \[PATCH] chore: update docs (👬 zdm)
 
-Compare with the previous release: [v2.2.1](https://github.com/softvisio-node/app-text-search/compare/v2.2.1...v2.2.2)
+Compare with the previous release: [v2.2.1](https://github.com/c0rejs/app-text-search/compare/v2.2.1...v2.2.2)
 
 ### v2.2.1 (2025-05-21)
 
@@ -70,7 +70,7 @@ Compare with the previous release: [v2.2.1](https://github.com/softvisio-node/ap
 
 - \[PATCH] fix: fix init models (👬 zdm)
 
-Compare with the previous release: [`v2.2.0...v2.2.1`](https://github.com/softvisio-node/app-text-search/compare/v2.2.0...v2.2.1)
+Compare with the previous release: [`v2.2.0...v2.2.1`](https://github.com/c0rejs/app-text-search/compare/v2.2.0...v2.2.1)
 
 ### v2.2.0 (2025-05-17)
 
@@ -78,7 +78,7 @@ Compare with the previous release: [`v2.2.0...v2.2.1`](https://github.com/softvi
 
 - \[MINOR] feat: use ai api (👬 zdm)
 
-Compare with the previous release: [`v2.1.26...v2.2.0`](https://github.com/softvisio-node/app-text-search/compare/v2.1.26...v2.2.0)
+Compare with the previous release: [`v2.1.26...v2.2.0`](https://github.com/c0rejs/app-text-search/compare/v2.1.26...v2.2.0)
 
 ### 2.1.26 (2025-03-26)
 
@@ -86,7 +86,7 @@ Other changes:
 
 - chore: update markdown code tags
 
-Compare with the previous release: [`v2.1.25...v2.1.26`](https://github.com/softvisio-node/app-text-search/compare/v2.1.25...v2.1.26)
+Compare with the previous release: [`v2.1.25...v2.1.26`](https://github.com/c0rejs/app-text-search/compare/v2.1.25...v2.1.26)
 
 ### 2.1.25 (2025-03-04)
 
@@ -94,7 +94,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v2.1.24...v2.1.25`](https://github.com/softvisio-node/app-text-search/compare/v2.1.24...v2.1.25)
+Compare with the previous release: [`v2.1.24...v2.1.25`](https://github.com/c0rejs/app-text-search/compare/v2.1.24...v2.1.25)
 
 ### 2.1.24 (2025-03-04)
 
@@ -102,13 +102,13 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v2.1.23...v2.1.24`](https://github.com/softvisio-node/app-text-search/compare/v2.1.23...v2.1.24)
+Compare with the previous release: [`v2.1.23...v2.1.24`](https://github.com/c0rejs/app-text-search/compare/v2.1.23...v2.1.24)
 
 ### 2.1.23 (2025-02-27)
 
 No changes since the previous release.
 
-Compare with the previous release: [`v2.1.22...v2.1.23`](https://github.com/softvisio-node/app-text-search/compare/v2.1.22...v2.1.23)
+Compare with the previous release: [`v2.1.22...v2.1.23`](https://github.com/c0rejs/app-text-search/compare/v2.1.22...v2.1.23)
 
 ### 2.1.22 (2025-02-27)
 
@@ -116,7 +116,7 @@ Other changes:
 
 - chore: add editorconfig yaml
 
-Compare with the previous release: [`v2.1.21...v2.1.22`](https://github.com/softvisio-node/app-text-search/compare/v2.1.21...v2.1.22)
+Compare with the previous release: [`v2.1.21...v2.1.22`](https://github.com/c0rejs/app-text-search/compare/v2.1.21...v2.1.22)
 
 ### 2.1.21 (2025-02-26)
 
@@ -124,7 +124,7 @@ Other changes:
 
 - chore: update editorconfig
 
-Compare with the previous release: [`v2.1.20...v2.1.21`](https://github.com/softvisio-node/app-text-search/compare/v2.1.20...v2.1.21)
+Compare with the previous release: [`v2.1.20...v2.1.21`](https://github.com/c0rejs/app-text-search/compare/v2.1.20...v2.1.21)
 
 ### 2.1.20 (2025-02-19)
 
@@ -132,7 +132,7 @@ Other changes:
 
 - chore: update cli config
 
-Compare with the previous release: [`v2.1.19...v2.1.20`](https://github.com/softvisio-node/app-text-search/compare/v2.1.19...v2.1.20)
+Compare with the previous release: [`v2.1.19...v2.1.20`](https://github.com/c0rejs/app-text-search/compare/v2.1.19...v2.1.20)
 
 ### 2.1.19 (2025-01-08)
 
@@ -140,7 +140,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v2.1.18 ... v2.1.19](https://github.com/softvisio-node/app-text-search/compare/v2.1.18...v2.1.19)
+[Compare with the previous release: v2.1.18 ... v2.1.19](https://github.com/c0rejs/app-text-search/compare/v2.1.18...v2.1.19)
 
 ### 2.1.18 (2024-12-07)
 
@@ -148,7 +148,7 @@ Other changes:
 
 - chore: set yaml indent to 4 spaces
 
-[Compare with the previous release: v2.1.17 ... v2.1.18](https://github.com/softvisio-node/app-text-search/compare/v2.1.17...v2.1.18)
+[Compare with the previous release: v2.1.17 ... v2.1.18](https://github.com/c0rejs/app-text-search/compare/v2.1.17...v2.1.18)
 
 ### 2.1.17 (2024-11-27)
 
@@ -156,7 +156,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v2.1.16 ... v2.1.17](https://github.com/softvisio-node/app-text-search/compare/v2.1.16...v2.1.17)
+[Compare with the previous release: v2.1.16 ... v2.1.17](https://github.com/c0rejs/app-text-search/compare/v2.1.16...v2.1.17)
 
 ### 2.1.16 (2024-11-27)
 
@@ -164,7 +164,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v2.1.15 ... v2.1.16](https://github.com/softvisio-node/app-text-search/compare/v2.1.15...v2.1.16)
+[Compare with the previous release: v2.1.15 ... v2.1.16](https://github.com/c0rejs/app-text-search/compare/v2.1.15...v2.1.16)
 
 ### 2.1.15 (2024-11-07)
 
@@ -172,7 +172,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v2.1.14 ... v2.1.15](https://github.com/softvisio-node/app-text-search/compare/v2.1.14...v2.1.15)
+[Compare with the previous release: v2.1.14 ... v2.1.15](https://github.com/c0rejs/app-text-search/compare/v2.1.14...v2.1.15)
 
 ### 2.1.14 (2024-10-29)
 
@@ -180,25 +180,25 @@ Other changes:
 
 - chore: update docs
 
-[Compare with the previous release: v2.1.13 ... v2.1.14](https://github.com/softvisio-node/app-text-search/compare/v2.1.13...v2.1.14)
+[Compare with the previous release: v2.1.13 ... v2.1.14](https://github.com/c0rejs/app-text-search/compare/v2.1.13...v2.1.14)
 
 ### 2.1.13 (2024-10-20)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/app-text-search/compare/v2.1.12...v2.1.13)
+[Full list of the changes](https://github.com/c0rejs/app-text-search/compare/v2.1.12...v2.1.13)
 
 ### 2.1.12 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/app-text-search/compare/v2.1.11...v2.1.12)
+[Full list of the changes](https://github.com/c0rejs/app-text-search/compare/v2.1.11...v2.1.12)
 
 ### 2.1.11 (2024-10-11)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/app-text-search/compare/v2.1.10...v2.1.11)
+[Full list of the changes](https://github.com/c0rejs/app-text-search/compare/v2.1.10...v2.1.11)
 
 ### 2.1.10 (2024-10-06)
 
