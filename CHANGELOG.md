@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.2.11 (2025-12-11)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update npmrc (● [c250a71](https://github.com/c0rejs/app-text-search/commit/c250a71); 👬 zdm)
+
+**Other changes:**
+
+- docs: update docs (● [1c6db0b](https://github.com/c0rejs/app-text-search/commit/1c6db0b); 👬 zdm)
+
+Compare with the previous release: [v2.2.10](https://github.com/c0rejs/app-text-search/compare/v2.2.10...v2.2.11)
+
 ### v2.2.10 (2025-12-10)
 
 **Other changes:**
