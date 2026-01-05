@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.2.12 (2026-01-05)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [33df5e0](https://github.com/c0rejs/app-text-search/commit/33df5e0); 👬 zdm)
+
+Compare with the previous release: [v2.2.11](https://github.com/c0rejs/app-text-search/compare/v2.2.11...v2.2.12)
+
 ### v2.2.11 (2025-12-11)
 
 **Bug fixes:**
