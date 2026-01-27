@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.2.13 (2026-01-27)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [c6e8075](https://github.com/c0rejs/app-text-search/commit/c6e8075); 👬 zdm)
+
+Compare with the previous release: [v2.2.12](https://github.com/c0rejs/app-text-search/compare/v2.2.12...v2.2.13)
+
 ### v2.2.12 (2026-01-05)
 
 **Other changes:**
