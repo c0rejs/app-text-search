@@ -1,5 +1,11 @@
 # Changelog
 
+### v2.2.15 (2026-01-29)
+
+No changes since the previous release.
+
+Compare with the previous release: [v2.2.14](https://github.com/c0rejs/app-text-search/compare/v2.2.14...v2.2.15)
+
 ### v2.2.14 (2026-01-28)
 
 **Other changes:**
