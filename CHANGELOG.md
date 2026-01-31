@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.2.16 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename package (● [14555f5](https://github.com/corejslib/app-text-search/commit/14555f5); 👬 zdm)
+
+Compare with the previous release: [v2.2.15](https://github.com/corejslib/app-text-search/compare/v2.2.15...v2.2.16)
+
 ### v2.2.15 (2026-01-29)
 
 No changes since the previous release.
