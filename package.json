@@ -1,25 +1,25 @@
 {
-    "name": "@c0rejs/app-text-search",
+    "name": "@corejslib/app-text-search",
     "version": "2.2.15",
     "description": "Text search application component",
     "keywords": [
         "softvisio",
         "text search"
     ],
-    "homepage": "https://c0rejs.github.io/app-text-search/",
+    "homepage": "https://corejslib.github.io/app-text-search/",
     "bugs": {
-        "url": "https://github.com/c0rejs/app-text-search/issues",
+        "url": "https://github.com/corejslib/app-text-search/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/c0rejs/app-text-search.git"
+        "url": "git+https://github.com/corejslib/app-text-search.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
     "type": "module",
     "imports": {
-        "#core/*": "@c0rejs/core/*",
+        "#core/*": "@corejslib/core/*",
         "#lib/*": "./lib/*.js",
         "#resources/*": "./resources/*"
     },
@@ -38,6 +38,6 @@
         "gpt-tokenizer": "^3.0.0"
     },
     "peerDependencies": {
-        "@c0rejs/core": "^7.101.6"
+        "@corejslib/core": "^7.101.6"
     }
 }
