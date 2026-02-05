@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.2.17 (2026-02-05)
+
+**Other changes:**
+
+- chore: remove @zdm npm registry (● [34acce2](https://github.com/corejslib/app-text-search/commit/34acce2); 👬 zdm)
+
+Compare with the previous release: [v2.2.16](https://github.com/corejslib/app-text-search/compare/v2.2.16...v2.2.17)
+
 ### v2.2.16 (2026-01-31)
 
 **Other changes:**
